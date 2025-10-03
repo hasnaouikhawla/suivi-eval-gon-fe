@@ -1,5 +1,5 @@
 export const environment = {
   production: false,
   frontendUrl: 'http://localhost:4200',
-  apiBaseUrl: 'https://localhost:3001/api'
+  apiBaseUrl: 'https://api.sayapp.ma/api'
 };
